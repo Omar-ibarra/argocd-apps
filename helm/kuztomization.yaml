@@ -1,0 +1,8 @@
+helmCharts:
+- name: fluentd
+  repo: https://fluent.github.io/helm-charts
+  version: 0.4.3
+  releaseName: fluentd
+  valuesFile: values.yml
+namespace: fluentd
+
