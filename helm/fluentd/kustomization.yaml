@@ -3,5 +3,5 @@ helmCharts:
   repo: https://fluent.github.io/helm-charts
   version: 0.4.3
   releaseName: fluentd
-  valuesFile: values.yml
+  valuesFile: values.yaml
 namespace: fluentd
