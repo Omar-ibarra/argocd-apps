@@ -1,1 +1,0 @@
-# Helm con Kustomization
